@@ -2,4 +2,5 @@
 2.It allows developers to save different versions of files and return to previous states if needed. 
 3.Git enables multiple developers to work on the same project simultaneously without overwriting each other's work.
 4.I learned how to initialize a repo, add files, commit changes.
-5.I used git push to upload my changes to GitHub and make them available online.
+
+55.I used git push to upload my changes to GitHub and make them available online.

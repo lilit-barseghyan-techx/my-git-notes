@@ -1,0 +1,10 @@
+GitHub is a web-based platform for version control and collaborative software development.
+It uses Git for version control.
+Helps developers track and manage code changes.
+Allows teamwork through collaboration and code reviews.
+Projects are stored in repositories (repos).
+Developers use branches to work on new features safely.
+Pull requests are used to suggest and review changes.
+Supports issues for tracking bugs and tasks.
+Used for open-source, team, and personal projects.
+Enables automation with GitHub Actions (CI/CD). 
